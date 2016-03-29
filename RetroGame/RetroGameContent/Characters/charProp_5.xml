@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="RetroGameData.CharProperties">
+  <CharName>Christian</CharName>
+  <StartPosition>136 136</StartPosition>
+  <TextureAssetNumber>5</TextureAssetNumber>
+  <LockPicking>8</LockPicking>
+  <SafeCracking>7</SafeCracking>
+  <Jamming>4</Jamming>
+  <ForceLock>4</ForceLock>
+  <Stealth>10</Stealth>
+  <Strength>0</Strength>
+  <FullTextStringList>
+      <Item Type="System.String">A stupid guy.</Item>
+  </FullTextStringList> 
+</Asset>
+</XnaContent>

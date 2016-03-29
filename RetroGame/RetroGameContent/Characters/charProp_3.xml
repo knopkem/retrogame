@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="RetroGameData.CharProperties">
+  <CharName>Holger</CharName>
+  <StartPosition>136 136</StartPosition>
+  <TextureAssetNumber>3</TextureAssetNumber>
+  <LockPicking>2</LockPicking>
+  <SafeCracking>2</SafeCracking>
+  <Jamming>4</Jamming>
+  <ForceLock>4</ForceLock>
+  <Stealth>0</Stealth>
+  <Strength>0</Strength>
+  <FullTextStringList>
+      <Item Type="System.String">Just a bloke.</Item>
+  </FullTextStringList> 
+</Asset>
+</XnaContent>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="RetroGameData.CharProperties">
+  <CharName>Anett</CharName>
+  <StartPosition>136 136</StartPosition>
+  <TextureAssetNumber>6</TextureAssetNumber>
+  <LockPicking>10</LockPicking>
+  <SafeCracking>10</SafeCracking>
+  <Jamming>0</Jamming>
+  <ForceLock>0</ForceLock>
+  <Stealth>10</Stealth>
+  <Strength>10</Strength>
+  <FullTextStringList>
+      <Item Type="System.String">Known for her fury. Hire her if you want to make 
+your life hell.</Item>
+  </FullTextStringList> 
+</Asset>
+</XnaContent>

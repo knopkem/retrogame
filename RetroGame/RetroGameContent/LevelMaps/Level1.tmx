@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="256" height="256" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="cols" value="137"/>
+  <property name="rows" value="117"/>
+ </properties>
+ <tileset firstgid="1" name="Tiles" tilewidth="16" tileheight="16">
+  <image source="Tiles.png" width="128" height="40"/>
+  <tile id="11">
+   <properties>
+    <property name="id" value="0"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Walls" width="256" height="256">
+  <data encoding="base64" compression="zlib">
+   eJzt3FFuo0AQBNDcYO9/2/1dImfDMHQzNbwn8eeYNl2lBMfyn6+vrz8Ox0uPt3v6+jscTx5vd+d1GHmeJ875BnLNCP3fi/4zQv/3ov+MuLv/3fdesn6k/4xIz0vy7BXS90mv9Lwkz14hfZ/0Ss9L8uwV0vdJr/S8JM9eIX2f9ErPS/LsFdL3Sa8V8+IzXNe5Joz4lJenu/bE5wjgjX7q/0+P7aD/0EP/4b30H95L/+G99H8v3v9nhPf/96L/jFgxL/7/f51rwoj0vCTPXiF9n/RKz0vy7BXS90mv9Lwkz14hfZ/0Ss9L8uwV0vdJr/S8JM9eIX2f9ErPS/LsFdL3Sa/0vCTPXiF9n/RKz0vy7BXS90mv0c/a3PHZnOpzOuCc9LyMzj7y+MTrkr5PeqXnRf+P0vdJr/S86P9R+j7plZ6XK/3f+T46dW6ekZ6X5NkrpO+TXul5SZ69Qvo+6ZWel+TZK6Tvk17peUmevUL6PumVnpfk2Suk75Ne6XlJnr1C+j7plZ6X5NkrpO+TXvKyF/tkhLzsxT4ZIS97sU9GyMte7JMR8rIX+2REel6SZ6+Qvk96peclefYK6fukV3pekmevkL5PeqXnJXn2Cun7pFd6XpJnr5C+T3ql5yV59grp+/zXLq9jZel5mZ19t+8DS5mTNaTn5Y7+d52rQ/o+6ZWeF/0/St8nvdLzov9H6fuk1+j97x33y9XnfOpYwUqzsL7fejr6XN26zvnbeVbpnP4zQv/vOc8qndN/Ruj/PedZpXP6zwj9v+c8q3RO/xlx9/t03Tr7v9pr/2SlWVhfel6SZ6+Qvk96peclefYK6fukV3pekmevkL5PeqXnJXn2Cun7pFd6XlZ9H+4prgEj0vPyffbk13KH9H3SKz0v+n+Uvk96pedF/4/S90mv9Lzo/1H6PumVnhf9P0rfJ73S86L/R+n7pFd6XvT/KH2f9ErPi/4fpe+TXul50f+j9H3SKz0v+n+Uvk96pefl7Z//Xfm7CFhfel6SZ7/Dp79/3n5NOG+VvFz9fp0VZn+S/jNjlbzo/zX6z4xV8vJbx/X/M/1nxip50f9r9J8ZZ/7uXv14M/1nxpm8XM1Txe9s2T7Sf2bofzb9Z4b+Z9N/Zpzt/5335u7376P/zJCXbPrPDHnJpv/MkJds+s8M99jZ7I8Zn/IiP7n0nxH6vxf9Z4T+70X/GaH/e9F/Ruj/XvSfEfqfzfv/zND/bP7/zwz9z6b/zND/bPrPDP3Ppv/M0P9s+s8M/c+m/8zQ/2z6zwz9z6b/zND/bPrPDJ8fy6b/zJCXbPrPDHnJpv/MkJds+s8Mecnm/RtmyMte7JMRZ/Ly0++YM8fdz7dDtitf+y7XiB5n+3/1ue98vtmfXcXd1/P7Y3a4RvTQ/376zyr0v5/+s4rZe3HH/zu30izw3dOd2elY6foCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALC3v7CXZPY=
+  </data>
+ </layer>
+ <layer name="Collision" width="256" height="256" opacity="0.29">
+  <data encoding="base64" compression="zlib">
+   eJzt3UFqw0AQBEA/IP9/b8ghiEAOI63s0U5Xga6BVXcjQ4z8egEArPkqXsA89g+57B8AAAAAAAAA+OV7BNCne2v2D326t2b/0Kd7a/YPfbq3Zv/Qp3tr9g+57B8AAAAAAAAAAAAA+OG7xZDL/iGX/QMAAAAAAAAAAAAAAAAAAAAAAAAAwOd4Hyjksn/IZf8A8Ff12ZjwfEw+O5ns/5B8djLZ/yH57GSy/0Py2QEAAAAAAOBT/B8Octk/5LJ/yGX/kMv+IZf9Qy77h1z2D7nsH3LZPwCQxucfyGX/kMv+mcK7Nc9zr5jC/s9zryCX/fNuZ34HoNLFK39Pv//n/vBu9v9c7g/vZv/P5f5ALvuHXPYPuewfctk/AFd5hkAu+4dc9g+57B9y2T/ksn/IZf/7kh2rdGhfsmOVDu1LdqzSoX3JjlU6tC/ZsUqH9iU7VunQvmTHKh3al+xYpUP7kh3ksn/IZf+Qy/4hl/0DAABwF7//d6/ks7Mf+79X8tnZj/3fK/nsAAD08blyHplSpSvzyJQqXZlHplTpyjwypUpX5pEpVboyj0yp0pV5ZEqVrswjU6p0ZR6ZUqUr88iUKl2ZR6ZU6co8MqVKV+aRKVW6Mo9MqdKVeWRKla7MI1OqdGUemVJ19T18rmdfUNHdU5f9AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADDHN2NtKcU=
+  </data>
+ </layer>
+ <objectgroup name="Objects" width="256" height="256">
+  <object name="Safe" type="8" x="544" y="1248" width="144" height="64"/>
+  <object name="Desk" type="3" x="112" y="896" width="208" height="80"/>
+  <object name="Door" type="1" x="384" y="448" width="80" height="16"/>
+  <object name="Desk" type="3" x="304" y="32" width="192" height="64"/>
+  <object name="Alarm" type="5" x="80" y="192" width="112" height="112"/>
+  <object name="Vitrine" type="6" x="144" y="1328" width="240" height="64"/>
+  <object name="Vitrine" type="6" x="464" y="1328" width="256" height="64"/>
+  <object name="Vitrine" type="6" x="32" y="1440" width="64" height="272"/>
+  <object name="Vitrine" type="6" x="464" y="1792" width="256" height="64"/>
+  <object name="Vitrine" type="6" x="144" y="1792" width="240" height="64"/>
+  <object name="Vitrine" type="6" x="784" y="1040" width="64" height="192"/>
+  <object name="Door" type="1" x="384" y="880" width="80" height="16"/>
+  <object name="Door" type="1" x="768" y="640" width="16" height="80"/>
+  <object name="Vitrine" type="6" x="960" y="464" width="192" height="64"/>
+  <object name="Vitrine" type="6" x="1024" y="816" width="192" height="64"/>
+  <object name="Till" type="4" x="1184" y="896" width="144" height="80"/>
+  <object name="Vitrine" type="6" x="1792" y="1216" width="64" height="240"/>
+  <object name="Vitrine" type="6" x="1792" y="1536" width="64" height="240"/>
+  <object name="Vitrine" type="6" x="1488" y="1792" width="240" height="64"/>
+  <object name="Door" type="1" x="1328" y="1856" width="80" height="32"/>
+  <object name="Door" type="1" x="1856" y="192" width="32" height="80"/>
+  <object name="Sink" type="7" x="592" y="176" width="176" height="144"/>
+  <object name="SpawnPlace" type="100" x="1040" y="1984" width="688" height="128"/>
+ </objectgroup>
+</map>

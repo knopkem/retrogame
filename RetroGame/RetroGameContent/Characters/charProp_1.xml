@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="RetroGameData.CharProperties">
+  <CharName>Stefan</CharName>
+  <StartPosition>136 136</StartPosition>
+  <TextureAssetNumber>1</TextureAssetNumber>
+  <LockPicking>0</LockPicking>
+  <SafeCracking>0</SafeCracking>
+  <Jamming>0</Jamming>
+  <ForceLock>0</ForceLock>
+  <Stealth>0</Stealth>
+  <Strength>0</Strength>
+  <FullTextStringList>
+     <Item Type="System.String">
+Don't mess with this guy, as he likes to get 
+rageous and might just drop your amiga for 
+no reason
+     </Item>
+  </FullTextStringList> 
+</Asset>
+</XnaContent>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="RetroGameData.CharProperties">
+  <CharName>Michael</CharName>
+  <StartPosition>136 136</StartPosition>
+  <TextureAssetNumber>2</TextureAssetNumber>
+  <LockPicking>10</LockPicking>
+  <SafeCracking>10</SafeCracking>
+  <Jamming>10</Jamming>
+  <ForceLock>10</ForceLock>
+  <Stealth>10</Stealth>
+  <Strength>10</Strength>
+  <FullTextStringList>
+      <Item Type="System.String">
+A very nice fellow and quite a programming 
+genious.</Item>     
+  </FullTextStringList> 
+</Asset>
+</XnaContent>

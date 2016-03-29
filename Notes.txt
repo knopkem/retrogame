@@ -1,0 +1,5 @@
+Compiling for Windows Phone:
+
+- remove assemblies not applicable
+- add System.Xml.Serialization assembly (in StorageManager disabled at the moment)
+- add TiledLib + OpenNETCF dlls

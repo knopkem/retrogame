@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="RetroGameData.CutSceneData">
+    <StoryText>
+      <Item Type="System.String">
+In 1986 a hand full of men started a burglar series. Head of the gang was a man who called himself 
+only 'The Boss'. Under his brilliant leadership, the thieves looted cashand valuables worth over a 
+million dollars. The absolute highlight was the theft of a priceless death mask of an alleged 
+burglarproof museum. Everything went according to the plan..."
+      </Item>
+      <Item Type="System.String">
+In the 24 years that the boss spend in prison he had plenty of time to consider a plan of
+how he would get his fair share from his former partners.
+      
+... Everything!
+      
+Project: Montecristo was born!
+      </Item>
+    </StoryText>
+    <ImageAssetName>
+      <Item Type="System.String">front_door</Item>
+      <Item Type="System.String">alarm</Item>
+      <Item Type="System.String">guards</Item>
+      <Item Type="System.String">deathmask</Item>
+      <Item Type="System.String">getting_caught</Item>
+      <Item Type="System.String">escape</Item>
+      <Item Type="System.String">their_plan</Item>
+    </ImageAssetName>
+    <ImageDescription>    
+      <Item Type="System.String">The front door was broken.</Item>
+      <Item Type="System.String">The alarms were disabled.</Item>
+      <Item Type="System.String">The guards were misled.</Item>
+      <Item Type="System.String">The death mask was stolen.</Item>
+      <Item Type="System.String">The rest of the gang was in the last minute to escape with a getaway car...</Item>                                 
+      <Item Type="System.String">But one of the crooks ran straight into the hands of the guards.\n
+                                 The boss has been caught!</Item>
+      <Item Type="System.String">... Everything went according to the plan. Their plan!</Item>
+    </ImageDescription>
+  </Asset>
+</XnaContent>

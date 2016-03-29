@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="RetroGameData.CharProperties">
+  <CharName>Heinz</CharName>
+  <StartPosition>136 136</StartPosition>
+  <TextureAssetNumber>4</TextureAssetNumber>
+  <LockPicking>9</LockPicking>
+  <SafeCracking>4</SafeCracking>
+  <Jamming>1</Jamming>
+  <ForceLock>2</ForceLock>
+  <Stealth>0</Stealth>
+  <Strength>0</Strength>
+  <FullTextStringList>
+      <Item Type="System.String">Heinz is pretty unknown.</Item>
+  </FullTextStringList> 
+</Asset>
+</XnaContent>
